@@ -6,7 +6,7 @@
 body {
     overflow-x: hidden;
     /* background-color: rgb(58, 59, 61); */
-    background-image: linear-gradient(rgb(100, 4, 46),rgb(5, 64, 100));
+   background-image: linear-gradient(to right ,rgb(77, 45, 220),rgb(35, 5, 100));
     
     /* background-size: cover; */
     /* background-repeat: no-repeat; */
